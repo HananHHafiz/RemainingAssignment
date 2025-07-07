@@ -1,0 +1,78 @@
+"Remaining Assignment" by Hanan Hafiz
+
+Use no scoring.
+
+Release along with a website, an interpreter and the source text.
+
+Instead of giving something to someone, try showing the noun to the second noun.
+
+Understand "combine [something] with [something]" as combining it with. Combining it with is an action applying to two carried things.
+ 
+
+When play begins: say “It is time to use your best organization and managing skills to get through a messy office and find and finalize your remaining assignment before morning. Clues all around you need to dig deeper in the missy piles to find them.”
+
+The player wears wrinkled suit. The description of the player is "Probably drinking all 7 cups of coffee this morning reflected on how your look now tired with shaggy hair, red eyes, and wrinkled suit.” The description of the wrinkled suit is "You really spend most of your salary on your clothes. Your suit is from a famous brand with great fabric but it is wrinkled and has a small coffee stain at the bottom of the jacket."
+
+Office is a room. "You are in an office everything around you is a mess. desks have piles and piles of papers, coffee cups, and pens and markers all around. The room is empty, but your job is not done yet and you need to finish it before the morning.
+on your east is the meeting room, your desk in front of you reflects the busy week you had, and the door to the hallway is shut."
+
+
+The hallway door is scenery in Office. The description is "It is closed you can see faint light from under the door." Instead of opening or entering the hallway door, say "You need to finish your assignment here before you go anywhere else."
+
+Your desk is a supporter in Office. It is fixed in place. A drawer is a closed openable container and part of a desk. The description of the drawer is "Great the drawer is unlocked." The description of the desk is "Your desk is not in better condition than the other ones, You have been messy like all your other colleagues." Understand "table" as the desk.
+
+Computer is a closed openable fixed in place container on Your desk. The description is "Your computer likely closed because your screen is black." After opening Computer, say "Your email shows a reminder of meeting 5 hours ago."
+
+Pile of papers are fixed in place on the desk.The description is "You have been sloppy on your filing and administration work. Your papers contain contracts, applications, request, orders, and sort of other things that should be filed and archived a long time ago." Instead of taking the Pile of papers: say "You do not have time to clean this mess now focus to finish your assignment for tonight."
+
+Notebook is on Your desk. The description is "Your notepad is filled with reminders and to-do lists.  It might be useful to keep it with you." 
+
+Glasses is on Your desk. It is wearable. The description is  "Here it is your glasses you will see better when you wear it."
+
+The Meeting Room is east of the Office. The description is "Oh my god, this room is also a mess! definitely, the previous meeting took a long time. The exit to the office is on the west."
+
+The big round table is supporter in meeting room. It is fixed in place. The description of the The big round table is "This is a huge table made of fine wood but it is filled with the previous meeting papers and notes. I need to search in those papers to find any useful information" 
+
+Chairs is enterable supporter in meeting room. The description is "These are expensive leather chairs. You are lucky that your employer concern about making his employees comfortable providing such expensive chairs to them."
+
+Projecter is a closed openable fixed in place container in the meeting room.The description is "The projector is on standby mode try to open it to see the last meeting presentation." After opening Projecter, say "It is about the new contract we will sign with PIC company.  I need to review the whole presentation to find more details."
+
+Presentation is a thing in the Projecter. The description is "Nothing useful it is all about that new contract."
+
+Sticky notes is a thing. The description is "Most of the yellow notes are about the points that need to be done in the contract copy."
+Calendar is a thing. The description is "I see they mark tomorrow to meet PIC company. It is my department meeting!! Wait I remember I saw a reminder in my notebook about it. I would better search my notebook to find it."
+Instead of searching big round table:
+move sticky notes to big round table;
+move calendar to big round table;
+say "You search the table and only the Sticky notesnear the main chair and the calendar can be useful." 
+
+last page is a thing. 
+Instead of searching notebook:
+move last page to notebook;
+say "Oh my god, I am screwed! Now I remember I am the sales member who is responsible to print and submit the contract hours ago. I need to go back and find it in my desk drawer."
+
+contract is a thing inside the drawer. 
+
+Victorious is a scene.
+
+Victorious begins when the player is carrying the contract.
+When Victorious begins:
+say "You did it! Your assignment is complete now you can go and have some rest to prepare for your big meeting tomorrow.";
+End the story.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
